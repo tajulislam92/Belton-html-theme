@@ -1,0 +1,336 @@
+@media only screen and (min-width: 769px) and (max-width: 1024px){
+.area {
+	width: 100%;
+}
+.logo {
+	width: 20%;
+}
+.menu {
+	width: 80%;
+}
+.service-description h4 {
+	line-height: 40px;
+}
+
+.header-area {
+	padding: 30px 20px;
+}
+
+.about-slogan, .services-slogan {
+	padding: 20px;
+}
+.about-slogan-img, .services-img {
+	padding: 20px;
+}
+
+.contact-form {
+	padding: 20px;
+}
+
+}
+@media only screen and (min-width: 481px) and (max-width: 768px){
+    .area {
+        width: 100%;
+    }
+    .logo {
+	width: 100%;
+    text-align: center;
+    }
+    .logo a {
+	font-size: 40px;
+}
+    .sticky {
+    position: relative;
+}
+    .menu {
+        width: 100%;
+    }
+    
+    .menu ul {
+	text-align: center;
+    padding: 10px 0;
+}
+.menu ul li {
+	display: block;
+}
+.menu ul li a {
+    display: block;
+    margin: 3px 0;
+}
+.menu ul li a:hover {
+    border: none;
+    background-color: #383838;
+    color: #ffff;
+}
+.slogan {
+	padding: 2px 0;
+}
+.slogan h1 {
+	text-align: center;
+	font-size: 30px;
+	line-height: 40px;
+	padding: 30px 15px;
+}
+
+.memories-img {
+	float: left;
+	width: 100%;
+}
+.memories-text {
+	float: left;
+	width: 100%;
+}
+.memories-text h4 {
+	font-size: 40px;
+	line-height: 50px;
+}
+.offer-heading h2 {
+	font-size: 40px;
+	line-height: 60px;
+	text-align: center;
+	padding: 10px 0;
+}
+.single-offer {
+	padding: 10px;
+}
+.offer-left {
+	width: 100%;
+	padding: 10px 20px;
+}
+.offer-right {
+	width: 100%;
+	padding: 10px 20px;
+}
+.service {
+	padding: 20px;
+}
+.service-description h4 {
+	line-height: 40px;
+}
+.service-img {
+	width: 100%;
+}
+.service-description {
+	width: 100%;
+	padding: 20px;
+}
+.person {
+	padding: 20px 0;
+}
+.single-person {
+	padding: 20px 40px;
+}
+.person-img {
+	width: 100%;
+}
+.person-description {
+	width: 100%;
+	padding: 0;
+}
+.get-contact {
+	padding: 20px;
+}
+.contact h2 {
+	font-size: 35px;
+	line-height: 50px;
+	padding: 20px 0;
+}
+.footer-area {
+	padding: 20px;
+}
+.footer-left {
+	width: 100%;
+}
+.footer-right {
+	width: 100%;
+	text-align: left;
+}
+.about-slogan h1, .services-slogan h1 {
+	padding: 40px 20px;
+}
+.about-slogan-left, .services-left {
+	float: left;
+	width: 100%;
+    padding: 20px;
+}
+.about-slogan-right, .services-right {
+	width: 100%;
+    padding: 20px;
+}
+.about-slogan-img-left, .services-img-left {
+	width: 100%;
+    padding: 20px;
+}
+.about-slogan-img-right, .services-img-right {
+	float: right;
+	width: 100%;
+	padding: 20px;
+}
+.about-slogan h1, .services-slogan h1 {
+	line-height: 45px;
+}
+.contact-form-left {
+	width: 100%;
+    padding: 40px;
+}
+.contact-form-right {
+	width: 100%;
+	padding: 40px;
+}
+}
+@media only screen and (min-width: 320px) and (max-width: 480px){
+    .area {
+        width: 100%;
+    }
+    .logo {
+	width: 100%;
+    text-align: center;
+    }
+    .logo a {
+	font-size: 40px;
+}
+    .sticky {
+    position: relative;
+}
+    .menu {
+        width: 100%;
+    }
+    
+    .menu ul {
+	text-align: center;
+    padding: 10px 0;
+}
+.menu ul li {
+	display: block;
+}
+.menu ul li a {
+    display: block;
+    margin: 3px 0;
+}
+.menu ul li a:hover {
+    border: none;
+    background-color: #383838;
+    color: #ffff;
+}
+.slogan {
+	padding: 2px 0;
+}
+.slogan h1 {
+	text-align: center;
+	font-size: 30px;
+	line-height: 40px;
+	padding: 15px;
+}
+.memories {
+	padding: 10px 0;
+}
+.memories-img {
+	float: left;
+	width: 100%;
+}
+.memories-text {
+	float: left;
+	width: 100%;
+	padding: 45px;
+}
+.memories-text h4 {
+	font-size: 40px;
+	line-height: 50px;
+}
+.offer-heading h2 {
+	font-size: 40px;
+	line-height: 60px;
+	text-align: center;
+	padding: 10px 0;
+}
+.single-offer {
+	padding: 10px;
+}
+.offer-left {
+	width: 100%;
+	padding: 10px 20px;
+}
+.offer-right {
+	width: 100%;
+	padding: 10px 20px;
+}
+.service {
+	padding: 20px;
+}
+.service-description h4 {
+	line-height: 40px;
+}
+.service-img {
+	width: 100%;
+}
+.service-description {
+	width: 100%;
+	padding: 20px;
+}
+.person {
+	padding: 20px 0;
+}
+.single-person {
+	padding: 20px 40px;
+}
+.person-img {
+	width: 100%;
+}
+.person-description {
+	width: 100%;
+	padding: 0;
+}
+.get-contact {
+	padding: 20px;
+}
+.contact h2 {
+	font-size: 35px;
+	line-height: 50px;
+	padding: 20px 0;
+}
+.footer-area {
+	padding: 20px;
+}
+.footer-left {
+	width: 100%;
+}
+.footer-right {
+	width: 100%;
+	text-align: left;
+}
+.about-slogan, .services-slogan {
+	padding: 20px;
+}
+.about-slogan h1, .services-slogan h1 {
+	font-size: 35px;
+}
+.about-slogan-left, .services-left {
+	float: left;
+	width: 100%;
+    padding-right: 0;
+}
+.about-slogan-right, .services-right {
+	width: 100%;
+    padding-left: 0;
+}
+.about-slogan-img-left, .services-img-left {
+	width: 100%;
+    padding: 10px;
+}
+.about-slogan-img-right, .services-img-right {
+	float: right;
+	width: 100%;
+	padding: 10px;
+}
+.about-slogan h1, .services-slogan h1 {
+	line-height: 45px;
+}
+.contact-form-left {
+	width: 100%;
+    padding: 40px;
+}
+.contact-form-right {
+	width: 100%;
+	padding: 40px;
+}
+}
